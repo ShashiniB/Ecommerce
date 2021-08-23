@@ -1,0 +1,5 @@
+<a href="index.php" class="navbar-brand home">
+			<img src="images/ecom-store-logo.png" class="hidden-xs">
+			<img src="images/ecom-store-logo.png" class="visible-xs">
+
+			</a>
